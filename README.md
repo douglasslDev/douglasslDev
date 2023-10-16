@@ -6,7 +6,7 @@
   <h1 align="center">Douglas Santos</h1>
   <p align="center" style="font-size: 0px">Front-end Developer</p>
   <p align="center">
-   <a href="https://portifolio-tau-sandy.vercel.app/en">https://portifolio-tau-sandy.vercel.app/en</a>
+   <a href="https://portifolio-douglassldev.vercel.app/pt">https://portifolio-douglassldev.vercel.app/pt</a>
   </p>
   <hr>
   <h2 align="center">
@@ -27,7 +27,7 @@
   </div> 
   </p>
   <p align="center">
-   Você pode encontrar todas as minhas habilidades em <br/> <a href="https://portifolio-tau-sandy.vercel.app/en">https://portifolio-tau-sandy.vercel.app/en</a>
+   Você pode encontrar todas as minhas habilidades em <br/> <a href=https://portifolio-douglassldev.vercel.app/pt">https://portifolio-douglassldev.vercel.app/pt/en</a>
   </p>
 <hr />
 
